@@ -14,7 +14,7 @@ A knew alot about git branching and so much about working with remote repo.
 
 [First Steps with Git conspect](lessons/st0ls2_Linux.md)
 
-![finished Linux Survival course](images/task_linux_cli)
+![finished Linux Survival course](images/task_linux_cli/linux_survival_finished.png)
 
 A worked with linux before, buit from this course I learn alot about basic commands and working with groups and
 premmissions. Piping is a such cool thing too. 
